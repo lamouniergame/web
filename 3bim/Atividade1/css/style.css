@@ -1,0 +1,85 @@
+.botao_relatorio{
+  color: black;
+  text-decoration: none; /* no underline */
+}
+
+.header{
+    width:100%;
+    background-color:#CBA567;
+    height:80px
+}
+
+#calendario1{
+	position:relative;
+	left:465px;
+	top:50px;
+}
+
+#logo{
+    position: relative;
+    max-height: 100px;
+    max-width: 100px;
+    height: auto;
+    width: auto;
+}
+
+.header-menu{
+    position:relative;
+    left:60px;
+    bottom:80px;
+}
+
+.conteudo{
+    height:600px;
+}
+
+.footer{
+    width:100%;
+    background-color:#CBA567;
+    height:50px;
+}
+
+#cont-foot{
+    position:relative;
+    margin:auto;
+    text-align:center;
+}
+
+.header-menu ul{
+list-style:none;
+display:inline-table;
+}
+
+
+#link1{
+    position:relative;
+    top:27px;
+}
+
+#link2{
+position:relative;
+left:60px;
+top:10px;
+}
+
+#link3{
+position:relative;
+left:130px;
+bottom:8px;
+}
+
+#link4{
+position:relative;
+left:235px;
+bottom:25px;
+}
+
+#titulo{
+    text-align:center;
+}
+
+#img-novo{
+    max-width:80px;
+    position:relative;
+    top:100px;
+}
